@@ -27,7 +27,7 @@ Input the relevant medical data.
 Click on the Predict button to view the result.
 
 ## Credits
-This repository is maintained and handled by Saranya Madala 
+This repository is Created and maintained by Saranya Madala 
 
 
  
