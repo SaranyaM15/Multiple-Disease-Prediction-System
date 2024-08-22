@@ -26,6 +26,8 @@ Select the disease you want to predict (Heart, Parkinson's, Diabetes).
 Input the relevant medical data.
 Click on the Predict button to view the result.
 
+## Credits
+This repository is maintained and handled by Saranya Madala 
 
 
  
